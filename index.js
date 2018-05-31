@@ -7,7 +7,7 @@ const args = process.argv;
 const game = args[2];
 const pageSize = 20;
 const pagesToFetch = 10;
-const startPage = 21;
+const startPage = 0;
 
 const delay = 0;
 
